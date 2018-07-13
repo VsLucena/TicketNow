@@ -1,10 +1,21 @@
 # SistemasDistribuidos_Middleware
-Trabalho referente ao segundo bimestre (2018) da disciplina 23098-Sistemas Distribuídos (turma U) do curso de Engenharia de Computação da Universidade Federal do Rio Grande - FURG.
+O projeto se destina a criação de um sistema distribuído para compra de ingressos para um cinema.  
+Este trabalho é referente ao segundo bimestre (2018) das disciplinas 23098-Sistemas Distribuídos (turma U - 2018) e 23097-Projeto e Desenvolvimento de Sistemas II (turma U - 2018) do curso de Engenharia de Computação da Universidade Federal do Rio Grande - FURG.
+
+## Conteúdo abordado
+### Middlewares
+- Web Service
+- Espaço de Tuplas
+- Fila de Mensagens
+- RMI 
+### Padrões de Projeto
+- MVC
+
 
 ## Autores
 
 * **Marlon R C Franco** - *59782* - [marlonrcfranco](https://github.com/marlonrcfranco)
-* **Vinicius Lucena dos Santos** - *85522* - []()
+* **Vinicius Lucena dos Santos** - *85522* - [VsLucena](https://github.com/VsLucena)
 
 
 ### Pré-requisitos
